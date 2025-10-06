@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[packages]
+jupyter = "*"
+transformers = "*"
+torch = "*"
+torchtext = "*"
+python-dotenv = "*"
+huggingface-hub = "*"
+datasets = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
