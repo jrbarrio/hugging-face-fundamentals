@@ -10,4 +10,5 @@ pipenv install torch --index=pytorch
 pipenv install transformers
 pipenv install huggingface_hub
 pipenv install datasets
+pipenv install pypdf
 ```

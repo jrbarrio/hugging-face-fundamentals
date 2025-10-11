@@ -16,6 +16,7 @@ torchtext = "*"
 python-dotenv = "*"
 huggingface-hub = "*"
 datasets = "*"
+pypdf = "*"
 
 [dev-packages]
 
