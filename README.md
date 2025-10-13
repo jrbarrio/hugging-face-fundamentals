@@ -12,4 +12,5 @@ pipenv install huggingface_hub
 pipenv install datasets
 pipenv install pypdf
 pipenv install sentencepiece
+pipenv install transformers[torch]
 ```

@@ -10,7 +10,6 @@ name = ""
 
 [packages]
 jupyter = "*"
-transformers = "*"
 torch = "*"
 torchtext = "*"
 python-dotenv = "*"
@@ -18,6 +17,7 @@ huggingface-hub = "*"
 datasets = "*"
 pypdf = "*"
 sentencepiece = "*"
+transformers = {extras = ["torch"], version = "*"}
 
 [dev-packages]
 

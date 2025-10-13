@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b4c4528fc61bca6b09a98356c8453dc22abc6b608cde8ba81088bceabaee0b30"
+            "sha256": "a78e4ce75b67e98e9305f22624ea0f81fe110d8bd9c5ab788929dc68b7d44755"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,6 +21,14 @@
         ]
     },
     "default": {
+        "accelerate": {
+            "hashes": [
+                "sha256:3621cff60b9a27ce798857ece05e2b9f56fcc71631cfb31ccf71f0359c311f11",
+                "sha256:3dea89e433420e4bfac0369cae7e36dcd6a56adfcfd38cdda145c6225eab5df8"
+            ],
+            "markers": "python_full_version >= '3.9.0'",
+            "version": "==1.10.1"
+        },
         "aiohappyeyeballs": {
             "hashes": [
                 "sha256:c3f9d0113123803ccadfdf3f0faa505bc78e6a72d1cc4806cbd719826e943558",
@@ -513,11 +521,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:66eda1888b0171c998b35be2bcc0f6d75c388a7ce20c3f3f37aa8e96c2dddf58",
-                "sha256:d38e30481def20772f5baf097c122c3babc4fcdb7e14e57049eb9d88c6dc017d"
+                "sha256:339b4732ffda5cd79b13f4e2711a31b0365ce445d95d243bb996273d072546a2",
+                "sha256:711e943b4ec6be42e1d4e6690b48dc175c822967466bb31c0c293f34334c13f4"
             ],
-            "markers": "python_version >= '3.9'",
-            "version": "==3.19.1"
+            "markers": "python_version >= '3.10'",
+            "version": "==3.20.0"
         },
         "fqdn": {
             "hashes": [
@@ -723,11 +731,11 @@
         },
         "idna": {
             "hashes": [
-                "sha256:12f65c9b470abda6dc35cf8e63cc574b1c52b11df2c86030af0ac09b01b13ea9",
-                "sha256:946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3"
+                "sha256:771a87f49d9defaf64091e6e6fe9c18d4833f140bd19464795bc32d966ca37ea",
+                "sha256:795dafcc9c04ed0c1fb032c2aa73654d8e8c5023a7df64a53f39190ada629902"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==3.10"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.11"
         },
         "ipykernel": {
             "hashes": [
@@ -2624,11 +2632,13 @@
             "version": "==5.14.3"
         },
         "transformers": {
+            "extras": [
+                "torch"
+            ],
             "hashes": [
                 "sha256:9d7c6d098c026e40d897e017ed1f481ab803cbac041021dbc6ae6100e4949b55",
                 "sha256:d045753f3d93f9216e693cdb168698dfd2e9d3aad1bb72579a5d60ebf1545a8b"
             ],
-            "index": "pypi",
             "markers": "python_full_version >= '3.9.0'",
             "version": "==4.57.0"
         },
