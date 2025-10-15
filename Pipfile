@@ -18,6 +18,8 @@ datasets = "*"
 pypdf = "*"
 sentencepiece = "*"
 transformers = {extras = ["torch"], version = "*"}
+evaluate = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
