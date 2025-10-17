@@ -20,6 +20,7 @@ sentencepiece = "*"
 transformers = {extras = ["torch"], version = "*"}
 evaluate = "*"
 scikit-learn = "*"
+sacremoses = "*"
 
 [dev-packages]
 

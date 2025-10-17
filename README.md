@@ -15,4 +15,5 @@ pipenv install sentencepiece
 pipenv install transformers[torch]
 pipenv install evaluate
 pipenv install scikit-learn
+pipenv install sacremoses
 ```
