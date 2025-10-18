@@ -16,4 +16,9 @@ pipenv install transformers[torch]
 pipenv install evaluate
 pipenv install scikit-learn
 pipenv install sacremoses
+pipenv install absl-py
+pipenv install nltk 
+pipenv install numpy 
+pipenv install six
+pipenv install rouge_score
 ```

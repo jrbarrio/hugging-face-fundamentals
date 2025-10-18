@@ -21,6 +21,11 @@ transformers = {extras = ["torch"], version = "*"}
 evaluate = "*"
 scikit-learn = "*"
 sacremoses = "*"
+absl-py = "*"
+nltk = "*"
+numpy = "*"
+six = "*"
+rouge-score = "*"
 
 [dev-packages]
 
