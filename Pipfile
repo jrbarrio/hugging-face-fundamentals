@@ -13,7 +13,6 @@ jupyter = "*"
 torch = "*"
 torchtext = "*"
 python-dotenv = "*"
-huggingface-hub = "*"
 datasets = "*"
 pypdf = "*"
 sentencepiece = "*"
@@ -26,6 +25,8 @@ nltk = "*"
 numpy = "*"
 six = "*"
 rouge-score = "*"
+huggingface-hub = "*"
+diffusers = "*"
 
 [dev-packages]
 

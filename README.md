@@ -21,4 +21,6 @@ pipenv install nltk
 pipenv install numpy 
 pipenv install six
 pipenv install rouge_score
+pipenv install huggingface_hub[cli]
+pipenv install diffusers
 ```
