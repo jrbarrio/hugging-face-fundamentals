@@ -23,4 +23,5 @@ pipenv install six
 pipenv install rouge_score
 pipenv install huggingface_hub[cli]
 pipenv install diffusers
+pipenv install pillow
 ```

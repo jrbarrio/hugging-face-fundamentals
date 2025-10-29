@@ -16,7 +16,6 @@ python-dotenv = "*"
 datasets = "*"
 pypdf = "*"
 sentencepiece = "*"
-transformers = {extras = ["torch"], version = "*"}
 evaluate = "*"
 scikit-learn = "*"
 sacremoses = "*"
@@ -27,6 +26,8 @@ six = "*"
 rouge-score = "*"
 huggingface-hub = "*"
 diffusers = "*"
+transformers = {extras = ["torch"], version = "*"}
+pillow = "*"
 
 [dev-packages]
 
