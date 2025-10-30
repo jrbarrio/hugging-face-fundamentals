@@ -28,6 +28,7 @@ huggingface-hub = "*"
 diffusers = "*"
 transformers = {extras = ["torch"], version = "*"}
 pillow = "*"
+soundfile = "*"
 
 [dev-packages]
 
