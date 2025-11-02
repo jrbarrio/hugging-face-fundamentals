@@ -28,4 +28,5 @@ pipenv install soundfile
 pipenv install matplotlib
 pipenv install pillow
 pipenv install requests
+pipenv install speechbrain
 ```
