@@ -27,8 +27,10 @@ rouge-score = "*"
 huggingface-hub = "*"
 diffusers = "*"
 transformers = {extras = ["torch"], version = "*"}
-pillow = "*"
 soundfile = "*"
+matplotlib = "*"
+pillow = "*"
+requests = "*"
 
 [dev-packages]
 

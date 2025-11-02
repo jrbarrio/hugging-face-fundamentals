@@ -25,4 +25,7 @@ pipenv install huggingface_hub[cli]
 pipenv install diffusers
 pipenv install pillow
 pipenv install soundfile
+pipenv install matplotlib
+pipenv install pillow
+pipenv install requests
 ```
