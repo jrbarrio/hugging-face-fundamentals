@@ -29,4 +29,5 @@ pipenv install matplotlib
 pipenv install pillow
 pipenv install requests
 pipenv install speechbrain
+pipenv install torchmetrics
 ```

@@ -32,6 +32,7 @@ matplotlib = "*"
 pillow = "*"
 requests = "*"
 speechbrain = "*"
+torchmetrics = "*"
 
 [dev-packages]
 
