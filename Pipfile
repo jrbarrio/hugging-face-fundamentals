@@ -33,6 +33,7 @@ pillow = "*"
 requests = "*"
 speechbrain = "*"
 torchmetrics = "*"
+qwen-vl-utils = "*"
 
 [dev-packages]
 

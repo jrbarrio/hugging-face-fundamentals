@@ -30,4 +30,5 @@ pipenv install pillow
 pipenv install requests
 pipenv install speechbrain
 pipenv install torchmetrics
+pipenv install qwen_vl_utils
 ```
