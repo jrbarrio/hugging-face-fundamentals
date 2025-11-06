@@ -31,4 +31,6 @@ pipenv install requests
 pipenv install speechbrain
 pipenv install torchmetrics
 pipenv install qwen_vl_utils
+pipenv install moviepy
+pipenv install decord
 ```

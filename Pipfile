@@ -34,6 +34,8 @@ requests = "*"
 speechbrain = "*"
 torchmetrics = "*"
 qwen-vl-utils = "*"
+moviepy = "*"
+decord = "*"
 
 [dev-packages]
 
