@@ -36,6 +36,7 @@ torchmetrics = "*"
 qwen-vl-utils = "*"
 moviepy = "*"
 decord = "*"
+pytesseract = "*"
 
 [dev-packages]
 

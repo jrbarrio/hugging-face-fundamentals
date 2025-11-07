@@ -33,4 +33,5 @@ pipenv install torchmetrics
 pipenv install qwen_vl_utils
 pipenv install moviepy
 pipenv install decord
+pipenv install pytesseract
 ```
