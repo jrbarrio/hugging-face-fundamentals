@@ -33,11 +33,11 @@ requests = "*"
 speechbrain = "*"
 torchmetrics = "*"
 qwen-vl-utils = "*"
-moviepy = "*"
 decord = "*"
 pytesseract = "*"
 diffusers = "*"
 opencv-python = "*"
+moviepy = "*"
 
 [dev-packages]
 
