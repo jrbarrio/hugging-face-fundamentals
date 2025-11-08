@@ -25,7 +25,6 @@ numpy = "*"
 six = "*"
 rouge-score = "*"
 huggingface-hub = "*"
-diffusers = "*"
 transformers = {extras = ["torch"], version = "*"}
 soundfile = "*"
 matplotlib = "*"
@@ -37,6 +36,8 @@ qwen-vl-utils = "*"
 moviepy = "*"
 decord = "*"
 pytesseract = "*"
+diffusers = "*"
+opencv-python = "*"
 
 [dev-packages]
 

@@ -34,4 +34,6 @@ pipenv install qwen_vl_utils
 pipenv install moviepy
 pipenv install decord
 pipenv install pytesseract
+pipev install diffusers
+pipenv install opencv-python
 ```
