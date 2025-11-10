@@ -36,4 +36,7 @@ pipenv install decord
 pipenv install pytesseract
 pipev install diffusers
 pipenv install opencv-python
+pipenv install smolagents
+pipenv install smolagents[litellm]
+pipenv install markdownify requests
 ```

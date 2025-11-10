@@ -29,7 +29,6 @@ transformers = {extras = ["torch"], version = "*"}
 soundfile = "*"
 matplotlib = "*"
 pillow = "*"
-requests = "*"
 speechbrain = "*"
 torchmetrics = "*"
 qwen-vl-utils = "*"
@@ -38,6 +37,9 @@ pytesseract = "*"
 diffusers = "*"
 opencv-python = "*"
 moviepy = "*"
+smolagents = {extras = ["litellm"], version = "*"}
+markdownify = "*"
+requests = "*"
 
 [dev-packages]
 
