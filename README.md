@@ -39,4 +39,6 @@ pipenv install opencv-python
 pipenv install smolagents
 pipenv install smolagents[litellm]
 pipenv install markdownify requests
+pipenv install langchain_community
+pipenv install langchain_huggingface
 ```

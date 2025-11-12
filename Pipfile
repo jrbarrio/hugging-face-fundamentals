@@ -40,6 +40,8 @@ moviepy = "*"
 smolagents = {extras = ["litellm"], version = "*"}
 markdownify = "*"
 requests = "*"
+langchain-community = "*"
+langchain-huggingface = "*"
 
 [dev-packages]
 
