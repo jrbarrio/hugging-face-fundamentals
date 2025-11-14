@@ -1,0 +1,1 @@
+https://app.datacamp.com/learn/courses/ai-agents-with-hugging-face-smolagents
